@@ -10,7 +10,7 @@ export default function Home() {
       <p>
         Visit{" "}
         <a href="https://opcoupon.com/deals" target="_blank">
-          start.solidjs.com
+          opcoupon.com/deals
         </a>{" "}
         Banggood and Geekbuying Coupon Codes.
       </p>
